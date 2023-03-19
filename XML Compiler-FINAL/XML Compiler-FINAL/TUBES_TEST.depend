@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1672613790 source:e:\materi\semester 3\struktur data\tubes\tubes_test\compxml.cpp
+	"CompXML.h"
+
+1672613815 source:e:\materi\semester 3\struktur data\tubes\tubes_test\main.cpp
+	"CompXML.h"
+
+1672613401 e:\materi\semester 3\struktur data\tubes\tubes_test\compxml.h
+	<iostream>
+	<fstream>
+	<string>
+
+1672928688 source:c:\gabungan\kuliah\struktur data\tubes\tubes_test (2)\tubes_test\main.cpp
+	"CompXML.h"
+
+1672920075 c:\gabungan\kuliah\struktur data\tubes\tubes_test (2)\tubes_test\compxml.h
+	<iostream>
+	<fstream>
+	<string>
+	<array>
+
+1672932865 source:c:\gabungan\kuliah\struktur data\tubes\tubes_test (2)\tubes_test\compxml.cpp
+	"CompXML.h"
+
+1673021286 source:c:\gabungan\kuliah\struktur data\dikit lagi\tubes_test\compxml.cpp
+	"CompXML.h"
+
+1673019485 c:\gabungan\kuliah\struktur data\dikit lagi\tubes_test\compxml.h
+	<iostream>
+	<fstream>
+	<string>
+	<set>
+
+1673022233 source:c:\gabungan\kuliah\struktur data\dikit lagi\tubes_test\main.cpp
+	"CompXML.h"
+
+1673586819 source:c:\users\michael sihotang\documents\michael sihotang\temporary college references\ds (data structure)\tugas besar\xml compiler-final\compxml.cpp
+	"CompXML.h"
+
+1673675214 c:\users\michael sihotang\documents\michael sihotang\temporary college references\ds (data structure)\tugas besar\xml compiler-final\compxml.h
+	<iostream>
+	<fstream>
+	<string>
+	<set>
+
+1673680999 source:c:\users\michael sihotang\documents\michael sihotang\temporary college references\ds (data structure)\tugas besar\xml compiler-final\main.cpp
+	"CompXML.h"
+
+1673586819 source:e:\materi\semester 3\struktur data\xml compiler-final\xml compiler-final\compxml.cpp
+	"CompXML.h"
+
+1673675214 e:\materi\semester 3\struktur data\xml compiler-final\xml compiler-final\compxml.h
+	<iostream>
+	<fstream>
+	<string>
+	<set>
+
+1673680999 source:e:\materi\semester 3\struktur data\xml compiler-final\xml compiler-final\main.cpp
+	"CompXML.h"
+
